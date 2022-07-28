@@ -1,0 +1,15 @@
+<proplibs>
+	<library name='Cliffs' resource-id='989e44' version='1724e666491' />
+	<library name='Village Builds' resource-id='989e08' version='16b89b53d0f' />
+	<library name='Fachwerk House 1' resource-id='989ddb' version='16b8b9302cf' />
+	<library name='Fachwerk House 2' resource-id='989dde' version='16b8ba0d5e7' />
+	<library name='Bush' resource-id='989e89' version='16b8999efd5' />
+	<library name='Bush 3D' resource-id='989e8a' version='17399de7dd2' />
+	<library name='Concrete Tiles' resource-id='989e38' version='16b8aa24378' />
+	<library name='Grass Tiles' resource-id='989e35' version='16b8a7ab19e' />
+	<library name='Slopes Rises' resource-id='989e3b' version='1739ea09245' />
+	<library name='Fort' resource-id='989dd8' version='16bda60efc5' />
+	<library name='Small Bridge' resource-id='989e41' version='16b8adad474' />
+	<library name='City Builds' resource-id='989e05' version='16b89a71d4a' />
+	<library name='Promotion' resource-id='989e80' version='16b89fd37db' />
+</proplibs>

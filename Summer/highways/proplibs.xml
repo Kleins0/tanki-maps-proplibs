@@ -1,0 +1,14 @@
+<proplibs>
+	<library name='Cliffs' resource-id='989e44' version='1724e666491' />
+	<library name='Concrete Tiles' resource-id='989e38' version='16b8aa24378' />
+	<library name='Grass Tiles' resource-id='989e35' version='16b8a7ab19e' />
+	<library name='Bush' resource-id='989e89' version='16b8999efd5' />
+	<library name='NuBu 9' resource-id='989df9' version='16b8a176b07' />
+	<library name='Bush 3D' resource-id='989e8a' version='17399de7dd2' />
+	<library name='NuBu 2' resource-id='989de7' version='16b8a32fb6c' />
+	<library name='NuBu 3' resource-id='989dea' version='16b8a404b31' />
+	<library name='Concrete Walls' resource-id='989de1' version='172324270db' />
+	<library name='Bridge Parts' resource-id='989e3e' version='16b8ac29d1b' />
+	<library name='City Builds' resource-id='989e05' version='16b89a71d4a' />
+	<library name='Promotion' resource-id='989e80' version='16b89fd37db' />
+</proplibs>

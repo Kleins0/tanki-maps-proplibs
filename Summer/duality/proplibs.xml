@@ -1,0 +1,14 @@
+<proplibs>
+	<library name='Desert Houses' resource-id='989e4a' version='16b8b003217' />
+	<library name='Industrial Elements' resource-id='989e50' version='16b8a0e3d19' />
+	<library name='Industrial Bridge' resource-id='989e7d' version='16b89f981bc' />
+	<library name='Land Rocks' resource-id='989e5f' version='16b89bde730' />
+	<library name='Bush' resource-id='989e89' version='16b8999efd5' />
+	<library name='Bush 3D' resource-id='989e8a' version='17399de7dd2' />
+	<library name='Land Tiles' resource-id='989e56' version='1715cf85e67' />
+	<library name='Stuffs' resource-id='989e83' version='16b8993ef70' />
+	<library name='City Buildings' resource-id='989e4d' version='16f14ca47d8' />
+	<library name='Outer Walls' resource-id='989e77' version='16bda6ee1b2' />
+	<library name='Waffle Fence' resource-id='989e7a' version='16b89e7ee88' />
+	<library name='Promotion' resource-id='989e80' version='16b89fd37db' />
+</proplibs>

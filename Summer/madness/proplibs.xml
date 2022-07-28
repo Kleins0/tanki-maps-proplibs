@@ -1,0 +1,5 @@
+<proplibs>
+	<library name='Passage' resource-id='2fcbee0' version='16b8be2ccb6' />
+	<library name='Defense' resource-id='2fcbede' version='16b8b9e67e7' />
+	<library name='Promotion' resource-id='989e80' version='16b89fd37db' />
+</proplibs>
