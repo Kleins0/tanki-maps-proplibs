@@ -1,16 +1,16 @@
 <proplibs>
-	<library name='Village Builds' resource-id='989e08' version='16b89b53d0f' />
-	<library name='Land Rise' resource-id='989e5c' version='16b899dbd39' />
-	<library name='Bush' resource-id='989e89' version='16b8999efd5' />
-	<library name='Bush 3D' resource-id='989e8a' version='17399de7dd2' />
-	<library name='Stuffs' resource-id='989e83' version='16b8993ef70' />
-	<library name='Outer Walls' resource-id='989e77' version='16bda6ee1b2' />
-	<library name='Industrial Elements' resource-id='989e50' version='16b8a0e3d19' />
-	<library name='Broken Roof' resource-id='989e9b' version='16b89e62569' />
-	<library name='Land Rocks' resource-id='989e5f' version='16b89bde730' />
-	<library name='Land Tiles' resource-id='989e56' version='1715cf85e67' />
-	<library name='Roadblock' resource-id='1dd10d54' version='16b8a835130' />
-	<library name='Broken Walls' resource-id='989e98' version='16b89d01f35' />
-	<library name='Land Hills' resource-id='989e59' version='16b8a796fd3' />
-	<library name='Promotion' resource-id='989e80' version='16b89fd37db' />
+  <library name="Village Builds" resource-id="989e08" version="16b89b53d0f" />
+  <library name="Land Rise" resource-id="989e5c" version="16b899dbd39" />
+  <library name="Bush" resource-id="989e89" version="16b8999efd5" />
+  <library name="Bush 3D" resource-id="989e8a" version="17399de7dd2" />
+  <library name="Stuffs" resource-id="989e83" version="16b8993ef70" />
+  <library name="Outer Walls" resource-id="989e77" version="16bda6ee1b2" />
+  <library name="Industrial Elements" resource-id="989e50" version="16b8a0e3d19" />
+  <library name="Broken Roof" resource-id="989e9b" version="16b89e62569" />
+  <library name="Land Rocks" resource-id="989e5f" version="16b89bde730" />
+  <library name="Land Tiles" resource-id="989e56" version="1715cf85e67" />
+  <library name="Roadblock" resource-id="1dd10d54" version="16b8a835130" />
+  <library name="Broken Walls" resource-id="989e98" version="16b89d01f35" />
+  <library name="Land Hills" resource-id="989e59" version="16b8a796fd3" />
+  <library name="Promotion" resource-id="989e80" version="16b89fd37db" />
 </proplibs>

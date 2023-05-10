@@ -1,19 +1,19 @@
 <proplibs>
-	<library name='NuBu 6' resource-id='989df3' version='16b8a05dafe' />
-	<library name='Land Rise' resource-id='989e5c' version='16b899dbd39' />
-	<library name='NuBu 9' resource-id='989df9' version='16b8a176b07' />
-	<library name='NuBu 12' resource-id='989dff' version='16b8993bf95' />
-	<library name='Stuffs' resource-id='989e83' version='16b8993ef70' />
-	<library name='Outer Walls' resource-id='989e77' version='16bda6ee1b2' />
-	<library name='Waffle Fence' resource-id='989e7a' version='16b89e7ee88' />
-	<library name='Desert Houses' resource-id='989e4a' version='16b8b003217' />
-	<library name='Industrial Elements' resource-id='989e50' version='16b8a0e3d19' />
-	<library name='Industrial Bridge' resource-id='989e7d' version='16b89f981bc' />
-	<library name='Land Rocks' resource-id='989e5f' version='16b89bde730' />
-	<library name='Land Tiles' resource-id='989e56' version='1715cf85e67' />
-	<library name='Roadblock' resource-id='1dd10d54' version='16b8a835130' />
-	<library name='NuBu 3' resource-id='989dea' version='16b8a404b31' />
-	<library name='City Buildings' resource-id='989e4d' version='16f14ca47d8' />
-	<library name='Land Hills' resource-id='989e59' version='16b8a796fd3' />
-	<library name='Promotion' resource-id='989e80' version='16b89fd37db' />
+  <library name="NuBu 6" resource-id="989df3" version="16b8a05dafe" />
+  <library name="Land Rise" resource-id="989e5c" version="16b899dbd39" />
+  <library name="NuBu 9" resource-id="989df9" version="16b8a176b07" />
+  <library name="NuBu 12" resource-id="989dff" version="16b8993bf95" />
+  <library name="Stuffs" resource-id="989e83" version="16b8993ef70" />
+  <library name="Outer Walls" resource-id="989e77" version="16bda6ee1b2" />
+  <library name="Waffle Fence" resource-id="989e7a" version="16b89e7ee88" />
+  <library name="Desert Houses" resource-id="989e4a" version="16b8b003217" />
+  <library name="Industrial Elements" resource-id="989e50" version="16b8a0e3d19" />
+  <library name="Industrial Bridge" resource-id="989e7d" version="16b89f981bc" />
+  <library name="Land Rocks" resource-id="989e5f" version="16b89bde730" />
+  <library name="Land Tiles" resource-id="989e56" version="1715cf85e67" />
+  <library name="Roadblock" resource-id="1dd10d54" version="16b8a835130" />
+  <library name="NuBu 3" resource-id="989dea" version="16b8a404b31" />
+  <library name="City Buildings" resource-id="989e4d" version="16f14ca47d8" />
+  <library name="Land Hills" resource-id="989e59" version="16b8a796fd3" />
+  <library name="Promotion" resource-id="989e80" version="16b89fd37db" />
 </proplibs>

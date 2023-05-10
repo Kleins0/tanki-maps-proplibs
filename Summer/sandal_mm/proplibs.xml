@@ -1,16 +1,16 @@
 <proplibs>
-	<library name='Cliffs' resource-id='989e44' version='1724e666491' />
-	<library name='Village Builds' resource-id='989e08' version='16b89b53d0f' />
-	<library name='Bush' resource-id='989e89' version='16b8999efd5' />
-	<library name='Bush 3D' resource-id='989e8a' version='17399de7dd2' />
-	<library name='Concrete Walls' resource-id='989de1' version='172324270db' />
-	<library name='Concrete Tiles' resource-id='989e38' version='16b8aa24378' />
-	<library name='Grass Tiles' resource-id='989e35' version='16b8a7ab19e' />
-	<library name='Slopes Rises' resource-id='989e3b' version='1739ea09245' />
-	<library name='Iran Zamin' resource-id='1dd0849f' version='16b8b31bd04' />
-	<library name='Roadblock' resource-id='1dd10d54' version='16b8a835130' />
-	<library name='City Buildings' resource-id='989e4d' version='16f14ca47d8' />
-	<library name='Small Bridge' resource-id='989e41' version='16b8adad474' />
-	<library name='Promotion' resource-id='989e80' version='16b89fd37db' />
-	<library name='City Builds' resource-id='989e05' version='16b89a71d4a' />
+  <library name="Cliffs" resource-id="989e44" version="1724e666491" />
+  <library name="Village Builds" resource-id="989e08" version="16b89b53d0f" />
+  <library name="Bush" resource-id="989e89" version="16b8999efd5" />
+  <library name="Bush 3D" resource-id="989e8a" version="17399de7dd2" />
+  <library name="Concrete Walls" resource-id="989de1" version="172324270db" />
+  <library name="Concrete Tiles" resource-id="989e38" version="16b8aa24378" />
+  <library name="Grass Tiles" resource-id="989e35" version="16b8a7ab19e" />
+  <library name="Slopes Rises" resource-id="989e3b" version="1739ea09245" />
+  <library name="Iran Zamin" resource-id="1dd0849f" version="16b8b31bd04" />
+  <library name="Roadblock" resource-id="1dd10d54" version="16b8a835130" />
+  <library name="City Buildings" resource-id="989e4d" version="16f14ca47d8" />
+  <library name="Small Bridge" resource-id="989e41" version="16b8adad474" />
+  <library name="Promotion" resource-id="989e80" version="16b89fd37db" />
+  <library name="City Builds" resource-id="989e05" version="16b89a71d4a" />
 </proplibs>

@@ -1,32 +1,32 @@
 <proplibs>
-	<library name='Cliffs' resource-id='54268' version='2' />
-	<library name='Passage' resource-id='d9873' version='3' />
-	<library name='Village Builds' resource-id='bbab9' version='1' />
-	<library name='Bush' resource-id='460af' version='5' />
-	<library name='Exterior' resource-id='8f4a3' version='1' />
-	<library name='NuBu 12' resource-id='a316d' version='1' />
-	<library name='Concrete Walls' resource-id='da436' version='2' />
-	<library name='Trees' resource-id='8f656' version='1' />
-	<library name='Defense' resource-id='54cf7' version='3' />
-	<library name='Com Build' resource-id='4fde1' version='3' />
-	<library name='City Buildings' resource-id='94e9a' version='2' />
-	<library name='Terrain' resource-id='b60f0' version='4' />
-	<library name='NuBu 6' resource-id='294d3' version='1' />
-	<library name='NuBu 9' resource-id='cc902' version='1' />
-	<library name='Stuffs' resource-id='90ce8' version='1' />
-	<library name='Outer Walls' resource-id='74ed9' version='2' />
-	<library name='Waffle Fence' resource-id='3242e' version='6' />
-	<library name='Industrial Elements' resource-id='149ec' version='1' />
-	<library name='Desert Houses' resource-id='9920' version='1' />
-	<library name='Concrete Tiles' resource-id='66ea3' version='2' />
-	<library name='Grass Tiles' resource-id='9d53c' version='1' />
-	<library name='Slopes Rises' resource-id='ba05c' version='2' />
-	<library name='NuBu 3' resource-id='cdcec' version='1' />
-	<library name='Roadblock' resource-id='74fc8' version='1' />
-	<library name='NuBu 4' resource-id='4b6b4' version='1' />
-	<library name='Hangars' resource-id='1a39c' version='1' />
-	<library name='Promotion' resource-id='aa6bf' version='14' />
-	<library name='City Builds' resource-id='68178' version='2' />
-	<library name='NuBu 1' resource-id='ba1b9' version='1' />
-	<library name='Land Tiles' resource-id='15e63' version='2' />
+  <library name="Cliffs" resource-id="54268" version="2" />
+  <library name="Passage" resource-id="d9873" version="3" />
+  <library name="Village Builds" resource-id="bbab9" version="1" />
+  <library name="Bush" resource-id="460af" version="5" />
+  <library name="Exterior" resource-id="8f4a3" version="1" />
+  <library name="NuBu 12" resource-id="a316d" version="1" />
+  <library name="Concrete Walls" resource-id="da436" version="2" />
+  <library name="Trees" resource-id="8f656" version="1" />
+  <library name="Defense" resource-id="54cf7" version="3" />
+  <library name="Com Build" resource-id="4fde1" version="3" />
+  <library name="City Buildings" resource-id="94e9a" version="2" />
+  <library name="Terrain" resource-id="b60f0" version="4" />
+  <library name="NuBu 6" resource-id="294d3" version="1" />
+  <library name="NuBu 9" resource-id="cc902" version="1" />
+  <library name="Stuffs" resource-id="90ce8" version="1" />
+  <library name="Outer Walls" resource-id="74ed9" version="2" />
+  <library name="Waffle Fence" resource-id="3242e" version="6" />
+  <library name="Industrial Elements" resource-id="149ec" version="1" />
+  <library name="Desert Houses" resource-id="9920" version="1" />
+  <library name="Concrete Tiles" resource-id="66ea3" version="2" />
+  <library name="Grass Tiles" resource-id="9d53c" version="1" />
+  <library name="Slopes Rises" resource-id="ba05c" version="2" />
+  <library name="NuBu 3" resource-id="cdcec" version="1" />
+  <library name="Roadblock" resource-id="74fc8" version="1" />
+  <library name="NuBu 4" resource-id="4b6b4" version="1" />
+  <library name="Hangars" resource-id="1a39c" version="1" />
+  <library name="Promotion" resource-id="aa6bf" version="14" />
+  <library name="City Builds" resource-id="68178" version="2" />
+  <library name="NuBu 1" resource-id="ba1b9" version="1" />
+  <library name="Land Tiles" resource-id="15e63" version="2" />
 </proplibs>

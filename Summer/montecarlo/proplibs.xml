@@ -1,8 +1,8 @@
 <proplibs>
-	<library name='Concrete Tiles' resource-id='989e38' version='16b8aa24378' />
-	<library name='Slopes Rises' resource-id='989e3b' version='16b8aaeebd2' />
-	<library name='Roadblock' resource-id='1dd10d54' version='16b8a835130' />
-	<library name='Small Bridge' resource-id='989e41' version='16b8adad474' />
-	<library name='Bridge Parts' resource-id='989e3e' version='16b8ac29d1b' />
-	<library name='Promotion' resource-id='989e80' version='16b89fd37db' />
+  <library name="Concrete Tiles" resource-id="989e38" version="16b8aa24378" />
+  <library name="Slopes Rises" resource-id="989e3b" version="16b8aaeebd2" />
+  <library name="Roadblock" resource-id="1dd10d54" version="16b8a835130" />
+  <library name="Small Bridge" resource-id="989e41" version="16b8adad474" />
+  <library name="Bridge Parts" resource-id="989e3e" version="16b8ac29d1b" />
+  <library name="Promotion" resource-id="989e80" version="16b89fd37db" />
 </proplibs>

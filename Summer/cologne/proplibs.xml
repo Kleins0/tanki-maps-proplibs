@@ -1,20 +1,20 @@
 <proplibs>
-	<library name='NuBu 6' resource-id='989df3' version='16b8a05dafe' />
-	<library name='Fachwerk House 1' resource-id='989ddb' version='16b8b9302cf' />
-	<library name='Fachwerk House 2' resource-id='989dde' version='16b8ba0d5e7' />
-	<library name='Bush' resource-id='989e89' version='16b8999efd5' />
-	<library name='NuBu 9' resource-id='989df9' version='16b8a176b07' />
-	<library name='Bush 3D' resource-id='989e8a' version='17399de7dd2' />
-	<library name='Concrete Walls' resource-id='989de1' version='172324270db' />
-	<library name='Concrete Tiles' resource-id='989e38' version='16b8aa24378' />
-	<library name='Grass Tiles' resource-id='989e35' version='16b8a7ab19e' />
-	<library name='Slopes Rises' resource-id='989e3b' version='1739ea09245' />
-	<library name='NuBu 2' resource-id='989de7' version='16b8a32fb6c' />
-	<library name='Roadblock' resource-id='1dd10d54' version='16b8a835130' />
-	<library name='NuBu 3' resource-id='989dea' version='16b8a404b31' />
-	<library name='Fort' resource-id='989dd8' version='16bda60efc5' />
-	<library name='NuBu 5' resource-id='989df0' version='16b8a5a68e2' />
-	<library name='Bridge Parts' resource-id='989e3e' version='16b8ac29d1b' />
-	<library name='NuBu 1' resource-id='989de4' version='16b8bb80286' />
-	<library name='Promotion' resource-id='989e80' version='16b89fd37db' />
+  <library name="NuBu 6" resource-id="989df3" version="16b8a05dafe" />
+  <library name="Fachwerk House 1" resource-id="989ddb" version="16b8b9302cf" />
+  <library name="Fachwerk House 2" resource-id="989dde" version="16b8ba0d5e7" />
+  <library name="Bush" resource-id="989e89" version="16b8999efd5" />
+  <library name="NuBu 9" resource-id="989df9" version="16b8a176b07" />
+  <library name="Bush 3D" resource-id="989e8a" version="17399de7dd2" />
+  <library name="Concrete Walls" resource-id="989de1" version="172324270db" />
+  <library name="Concrete Tiles" resource-id="989e38" version="16b8aa24378" />
+  <library name="Grass Tiles" resource-id="989e35" version="16b8a7ab19e" />
+  <library name="Slopes Rises" resource-id="989e3b" version="1739ea09245" />
+  <library name="NuBu 2" resource-id="989de7" version="16b8a32fb6c" />
+  <library name="Roadblock" resource-id="1dd10d54" version="16b8a835130" />
+  <library name="NuBu 3" resource-id="989dea" version="16b8a404b31" />
+  <library name="Fort" resource-id="989dd8" version="16bda60efc5" />
+  <library name="NuBu 5" resource-id="989df0" version="16b8a5a68e2" />
+  <library name="Bridge Parts" resource-id="989e3e" version="16b8ac29d1b" />
+  <library name="NuBu 1" resource-id="989de4" version="16b8bb80286" />
+  <library name="Promotion" resource-id="989e80" version="16b89fd37db" />
 </proplibs>

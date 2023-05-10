@@ -1,9 +1,9 @@
 <proplibs>
-	<library name='Cliffs' resource-id='989e44' version='1724e666491' />
-	<library name='Grass Tiles' resource-id='989e35' version='16b8a7ab19e' />
-	<library name='Village Builds' resource-id='989e08' version='16b89b53d0f' />
-	<library name='Bush' resource-id='989e89' version='16b8999efd5' />
-	<library name='Bush 3D' resource-id='989e8a' version='17399de7dd2' />
-	<library name='Roadblock' resource-id='1dd10d54' version='16b8a835130' />
-	<library name='Promotion' resource-id='989e80' version='16b89fd37db' />
+  <library name="Cliffs" resource-id="989e44" version="1724e666491" />
+  <library name="Grass Tiles" resource-id="989e35" version="16b8a7ab19e" />
+  <library name="Village Builds" resource-id="989e08" version="16b89b53d0f" />
+  <library name="Bush" resource-id="989e89" version="16b8999efd5" />
+  <library name="Bush 3D" resource-id="989e8a" version="17399de7dd2" />
+  <library name="Roadblock" resource-id="1dd10d54" version="16b8a835130" />
+  <library name="Promotion" resource-id="989e80" version="16b89fd37db" />
 </proplibs>

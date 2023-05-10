@@ -1,9 +1,9 @@
 <proplibs>
-	<library name='Passage' resource-id='2fcbee0' version='16b8be2ccb6' />
-	<library name='Industrial Bridge' resource-id='989e7d' version='16b89f981bc' />
-	<library name='Defense' resource-id='2fcbede' version='16b8b9e67e7' />
-	<library name='Land Tiles' resource-id='989e56' version='1715cf85e67' />
-	<library name='Outer Walls' resource-id='989e77' version='16bda6ee1b2' />
-	<library name='Waffle Fence' resource-id='989e7a' version='16b89e7ee88' />
-	<library name='Promotion' resource-id='989e80' version='16b89fd37db' />
+  <library name="Passage" resource-id="2fcbee0" version="16b8be2ccb6" />
+  <library name="Industrial Bridge" resource-id="989e7d" version="16b89f981bc" />
+  <library name="Defense" resource-id="2fcbede" version="16b8b9e67e7" />
+  <library name="Land Tiles" resource-id="989e56" version="1715cf85e67" />
+  <library name="Outer Walls" resource-id="989e77" version="16bda6ee1b2" />
+  <library name="Waffle Fence" resource-id="989e7a" version="16b89e7ee88" />
+  <library name="Promotion" resource-id="989e80" version="16b89fd37db" />
 </proplibs>

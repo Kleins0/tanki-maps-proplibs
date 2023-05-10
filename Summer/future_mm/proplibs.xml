@@ -1,12 +1,12 @@
 <proplibs>
-	<library name='Passage' resource-id='2fcbee0' version='16b8be2ccb6' />
-	<library name='Defense' resource-id='2fcbede' version='16b8b9e67e7' />
-	<library name='Bush' resource-id='989e89' version='16b8999efd5' />
-	<library name='Exterior' resource-id='1dcf6e7c' version='16b89a6b881' />
-	<library name='Bush 3D' resource-id='989e8a' version='17399de7dd2' />
-	<library name='Com Build' resource-id='2fcbedd' version='16b8b78fbb8' />
-	<library name='Roadblock' resource-id='1dd10d54' version='16b8a835130' />
-	<library name='Terrain' resource-id='2fcbee1' version='16b8a9fa0cc' />
-	<library name='Fence' resource-id='2fcbedf' version='172323d80ca' />
-	<library name='Promotion' resource-id='989e80' version='16b89fd37db' />
+  <library name="Passage" resource-id="2fcbee0" version="16b8be2ccb6" />
+  <library name="Defense" resource-id="2fcbede" version="16b8b9e67e7" />
+  <library name="Bush" resource-id="989e89" version="16b8999efd5" />
+  <library name="Exterior" resource-id="1dcf6e7c" version="16b89a6b881" />
+  <library name="Bush 3D" resource-id="989e8a" version="17399de7dd2" />
+  <library name="Com Build" resource-id="2fcbedd" version="16b8b78fbb8" />
+  <library name="Roadblock" resource-id="1dd10d54" version="16b8a835130" />
+  <library name="Terrain" resource-id="2fcbee1" version="16b8a9fa0cc" />
+  <library name="Fence" resource-id="2fcbedf" version="172323d80ca" />
+  <library name="Promotion" resource-id="989e80" version="16b89fd37db" />
 </proplibs>
